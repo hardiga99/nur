@@ -62,7 +62,7 @@ html_code = """
         function terimaCinta() {
             document.getElementById('emoji-utama').innerText = "🥰💖🎉";
             document.getElementById('judul').innerText = "Yeay! Resmi Jadian Nih! ❤️";
-            document.getElementById('pesan').innerHTML = "Terima kasih sudah menerima <i>pull request</i> cintaku!<br>Mulai detik ini, status hubungan kita resmi: <b>Production & No Bug!</b> 😘✨";
+            document.getElementById('pesan').innerHTML = "Terima kasih sudah menerima <i>pull request</i> cintaku!<br>Mulai detik ini, status hubungan kita resmi: <b>NURR PUTRII DUYUNGKUU!</b> 😘✨";
             document.getElementById('btn-nggak').style.display = 'none';
             const btnMau = document.getElementById('btn-mau');
             btnMau.innerText = "Love You Full! 💕";
